@@ -166,14 +166,29 @@ Example Response
 
 ---
 
-## 📷 Demo
+## 📸 Demo
 
-Add screenshots here.
+### Swagger UI
 
-- Swagger UI
-- Successful API response
+![Swagger UI](screenshots/swagger-ui.png)
 
 ---
+
+### API Response
+
+![API Response](screenshots/api-response.png)
+
+---
+
+### Document Summary
+
+![Document Summary](screenshots/summary-response.png)
+
+---
+
+### Project Structure
+
+![Project Structure](screenshots/project-structure.png)
 
 ## 📈 Future Improvements
 
